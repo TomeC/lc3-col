@@ -15,8 +15,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/other_code/go-demo",
-      "program": "d:/other_code/go-demo/build/Debug/outDebug",
+      "cwd": "d:/other_code/lc3-col/lc3-tools",
+      "program": "d:/other_code/lc3-col/lc3-tools/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
